@@ -1,0 +1,32 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Eye Vibes",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/bg-016-0cce7a5c7842040fcc0e297a42678307.svg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgb(0, 0, 0)",
+      "toolbar_text": "rgb(205, 17, 108)",
+      "frame": "rgb(7, 7, 150)",
+      "tab_background_text": "rgb(225, 234, 239)",
+      "toolbar_field": "rgba(22, 22, 21, 0.06)",
+      "toolbar_field_text": "rgb(16, 231, 36)",
+      "tab_line": "rgb(28, 214, 151)",
+      "popup": "rgb(209, 134, 148)",
+      "popup_text": "rgb(28, 30, 89)",
+      "tab_loading": "rgb(28, 214, 151)"
+    }
+  }
+}
